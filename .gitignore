@@ -2,6 +2,7 @@
 /*/build/
 build/generated/mockable-android-23.jar
 build/intermediates/dex-cache/cache.xml
+build/
 
 # Crashlytics configuations
 com_crashlytics_export_strings.xml
